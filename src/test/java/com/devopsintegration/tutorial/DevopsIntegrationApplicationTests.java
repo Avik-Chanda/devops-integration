@@ -17,7 +17,7 @@ class DevopsIntegrationApplicationTests {
 
 	@Test
 	void contextLoads() {
-		logger.info("Test executed as expected");
+		logger.info("Test executed as successfully");
 		assertEquals (true , true);
 	}
 
